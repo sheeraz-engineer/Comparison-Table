@@ -1,19 +1,21 @@
-# 💻 Responsive Pricing Comparison Table
+#  Comparison Table
 
 This is a fully responsive and accessible **Pricing Comparison Table** built with HTML, CSS, and JavaScript.  
 Designed to meet internship-level requirements with professional features and clean structure.
 
 ---
 
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/Comparison-Table/)
+
+
 ## 🚀 Features
 
-- ✅ Semantic HTML5 Table Markup
-- ✅ Responsive Layout (Mobile Friendly)
-- ✅ Google Fonts (Poppins)
-- ✅ Column Hover Highlights (JavaScript)
+- ✅ HTML5 
+- ✅ Responsive Layout 
+- ✅ Google Fonts 
+- ✅ JavaScript
 - ✅ Cell & Button Hover Effects
-- ✅ Subtle Shadows and Entry Animations
-- ✅ Clean, Modern UI with Even Spacing
 
 ---
 
@@ -42,16 +44,13 @@ Designed to meet internship-level requirements with professional features and cl
 
 ---
 
-## 🌐 Live Preview
-
-You can host this easily on GitHub Pages or Netlify for live demonstration.
-
 ---
 
-## 📧 Author
-
+## 👨‍💻 Author
 **Sheeraz Ahmed**  
-_Web Developer Intern Project_
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
+
 
 ---
 
